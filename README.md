@@ -48,7 +48,15 @@ Gaming infrastructure framework on Solana (acquired by Solana Labs' GameShift).
 - **Edge Client** — GraphQL backend serving as the central API layer for all SDKs. Handles on-chain data indexing, state aggregation, and real-time subscriptions.
 - **Multi-language SDKs** — TypeScript, Rust, and C# clients used by 15+ game studios.
 - **On-chain Programs** — NFT mechanics, character state, idle gaming systems, token operations. All deployed to mainnet.
-- **Solana Unity SDK** — Contributed to the official SDK. [PR #236](https://github.com/magicblock-labs/Solana.Unity-SDK/pull/236)
+### Solana.Unity-SDK — Open Source Contribution
+
+Merged PR to the official Solana Unity SDK improving transaction handling:
+
+- Enhanced `SignAllTransactions` across all wallet implementations
+- Added signature deduplication and improved deserialization for versioned transactions
+- Removed deprecated Phantom wallet code, consolidated wallet adapter logic
+
+[PR #236](https://github.com/magicblock-labs/Solana.Unity-SDK/pull/236) — Merged October 2024
 
 ### Client Projects (Tumi Labs)
 
