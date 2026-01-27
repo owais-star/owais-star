@@ -8,13 +8,9 @@
 
 ---
 
-## About
+I build backend systems for Solana — on-chain programs, indexing pipelines, APIs, and SDKs.
 
-I build backend infrastructure for Solana — on-chain programs, indexing pipelines, APIs, and SDKs.
-
-For the past 3 years, I was a core engineer at **Honeycomb Protocol**, a gaming infrastructure framework on Solana. I built systems that handled transaction indexing, program log parsing, state aggregation, and real-time data delivery. The SDKs I developed are used by 15+ game studios.
-
-I've shipped **7+ Anchor programs to mainnet** with zero security incidents across all deployments.
+Nearly 4 years of production experience. 7+ Anchor programs shipped to mainnet. Zero security incidents.
 
 ---
 
@@ -35,69 +31,51 @@ I've shipped **7+ Anchor programs to mainnet** with zero security incidents acro
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-**Also worked with:** NestJS, WebSockets, C#, Unity SDK integration, Docker, GitHub Actions
+**Also:** NestJS, WebSockets, C#, Unity SDK integration, Docker, GitHub Actions
 
 ---
 
-## What I've Built
+## Experience
 
-### Honeycomb Protocol — Core Engineer (2022–2025)
+### Honeycomb Protocol (2022–2025)
 
-Gaming infrastructure framework on Solana (acquired by Solana Labs' GameShift).
+Core engineer at a Solana gaming infrastructure framework, later acquired by GameShift.
 
-- **Edge Client** — GraphQL backend serving as the central API layer for all SDKs. Handles on-chain data indexing, state aggregation, and real-time subscriptions.
+- **Edge Client** — GraphQL backend for on-chain data indexing, state aggregation, and real-time subscriptions. Central API layer serving all SDKs.
 - **Multi-language SDKs** — TypeScript, Rust, and C# clients used by 15+ game studios.
-- **On-chain Programs** — NFT mechanics, character state, idle gaming systems, token operations. All deployed to mainnet.
-### Solana.Unity-SDK — Open Source Contribution
+- **On-chain Programs** — NFT mechanics, character state, idle gaming, token systems. All shipped to mainnet.
+- **Client Projects** — Delivered Solana programs for external clients: staking systems, reward mechanics, token launches.
+- **Ocean Explorers** — End-to-end idle strategy game (Anchor + Node.js + React).
 
-Merged PR to the official Solana Unity SDK improving transaction handling:
+### Solana.Unity-SDK
+
+Contributed to the official Solana Unity SDK:
 
 - Enhanced `SignAllTransactions` across all wallet implementations
-- Added signature deduplication and improved deserialization for versioned transactions
-- Removed deprecated Phantom wallet code, consolidated wallet adapter logic
+- Added signature deduplication, improved versioned transaction deserialization
+- Removed deprecated Phantom wallet code, consolidated adapter logic
 
 [PR #236](https://github.com/magicblock-labs/Solana.Unity-SDK/pull/236) — Merged October 2024
-
-### Client Projects (Tumi Labs)
-
-- Deployed multiple Solana programs for external clients
-- NFT/token staking with configurable reward mechanics
-- **Ocean Explorers** — End-to-end idle strategy game (Anchor program, Node.js backend, React frontend)
-
----
-
-## By the Numbers
-
-| Metric | Value |
-|--------|-------|
-| Solana programs shipped to mainnet | 7+ |
-| Years building on Solana | 3 |
-| Game studios using my SDKs | 15+ |
-| High-severity vulnerabilities in audits | 0 |
 
 ---
 
 ## Available For
 
-I take on contract and freelance work in:
+Contract and freelance work:
 
-- **Solana program development** — Anchor, SPL, token extensions, compressed NFTs
+- **Solana programs** — Anchor, SPL, token extensions, compressed NFTs
 - **Backend infrastructure** — Indexers, APIs, data pipelines, real-time systems
 - **SDK development** — TypeScript, Rust, C#
-- **Technical consulting** — Architecture review, code audit preparation
+- **Consulting** — Architecture review, audit preparation
 
-**Timezone:** UTC+5 (flexible for async work)
+Timezone: UTC+5 (flexible for async)
 
 ---
 
 ## Open Source
 
-I contribute to projects that catch my interest. If you're working on something in the Solana ecosystem and want to collaborate, reach out.
+I contribute to projects that interest me. Working on something in the Solana ecosystem? Reach out.
 
 ---
 
-## Contact
-
-- **Email:** iqbalowais35@gmail.com
-- **LinkedIn:** [owais-iqbal-sheikh](https://linkedin.com/in/owais-iqbal-sheikh)
-- **X:** [@owais_sol](https://x.com/owais_sol)
+**Email:** iqbalowais35@gmail.com | **LinkedIn:** [owais-iqbal-sheikh](https://linkedin.com/in/owais-iqbal-sheikh) | **X:** [@owais_sol](https://x.com/owais_sol)
