@@ -90,6 +90,12 @@ I take on contract and freelance work in:
 
 ---
 
+## Open Source
+
+I contribute to projects that catch my interest. If you're working on something in the Solana ecosystem and want to collaborate, reach out.
+
+---
+
 ## Contact
 
 - **Email:** iqbalowais35@gmail.com
