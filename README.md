@@ -2,9 +2,9 @@
 
 **Backend & Blockchain Engineer** — Solana Infrastructure, Indexing, SDKs
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/owais-iqbal-sheikh)
-[![Email](https://img.shields.io/badge/Email-iqbalowais35@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:iqbalowais35@gmail.com)
-[![X](https://img.shields.io/badge/X-@owais__sol-000000?style=flat&logo=x&logoColor=white)](https://x.com/owais_sol)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/owais-iqbal-sheikh)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iqbalowais35@gmail.com)
+[![Twitter](https://img.shields.io/badge/@owais__sol-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/owais_sol)
 
 ---
 
