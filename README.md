@@ -1,40 +1,19 @@
-# Hi, I'm Owais Iqbal 👋
+# Owais Iqbal
 
-### Senior Full-Stack & Systems Engineer | Forward Deployed Engineer
-I architect high-throughput APIs, real-time data streaming pipelines, and production developer platforms. Experienced in bridging low-level distributed systems with customer-facing web applications.
+**Prototype in. Production out.**
 
-🌐 **Portfolio & Interactive Architecture:** [owaisiqbal.dev](https://owaisiqbal.dev)  
-💼 **LinkedIn:** [linkedin.com/in/owais-iqbal-sheikh](https://linkedin.com/in/owais-iqbal-sheikh)  
-🐦 **X (Twitter):** [@owais_sol](https://x.com/owais_sol)  
-📫 **Direct:** iqbalowais35@gmail.com  
+I'm a forward-deployed AI engineer in Karachi (UTC+5). I take software from first version to production, with AI agents doing much of the typing and me reviewing everything that ships. I've used AI coding tools in daily work since Copilot; today that means Claude Code, multi-agent workflows, LLM integration, local models and evals.
 
----
+## Work you can open
 
-### 🛠️ Core Engineering Stack
+- **[Solana Unity SDK, PR #236](https://github.com/magicblock-labs/Solana.Unity-SDK/pull/236).** Signing several transactions at once wasn't implemented for in-game and external wallets. I wrote the issue and opened the fix the same day, removing old unused Phantom integrations on the way. Merged 2024-10-29.
+- **[Honeycomb Unity SDK](https://github.com/Honeycomb-Protocol/Unity-SDK).** Contributions to the platform's public Unity SDK (WebGL settings, JSON enum converters, GraphQL type updates). I learned C# for this work and was shipping Unity code within a week.
+- **[mission-vigil](https://github.com/JointOps/mission-vigil).** A browser game six of us built at JointOps for NASA Space Apps Challenge 2026. My part: AI, project management, game design, gameplay and 3D.
 
-```
-• Frontend:      TypeScript · JavaScript · Next.js · React · Tailwind CSS · WebSockets
-• Backend:       Node.js · NestJS · Express · GraphQL · RESTful APIs · Microservices
-• Databases:     PostgreSQL (Prisma) · Redis (Caching/Queues) · MongoDB
-• Systems:       Rust · Bounded Concurrency · gRPC · Docker · CI/CD (GitHub Actions)
-• Distributed:   High-Throughput State Machines · Zero-Exploit Architecture · DAS Compression
-```
+## Work you can't open
 
----
+Dec 2022 to Jan 2026 I was a Senior Software Engineer at Ashtar Global Solutions, on the Honeycomb Protocol, Tumi Labs and GameShift teams (Honeycomb is a Solana developer platform for games). Main contributor on buzz-kit, the guild program (Rust) and its TypeScript SDK; contributed to the team's other SDKs and to on-chain programs that went to mainnet; fixed the findings from their security audits; built the Edge Client with the team; top committer on two web apps and their backend service; ran integration support for outside teams building on the platform. Those repos are private. Some 2023 work is under my second account, [owais-sol](https://github.com/owais-sol).
 
-### ⚡ Selected Engineering Highlights
+## Contact
 
-- **Edge API & Developer Platform (Honeycomb Protocol):**  
-  Architected GraphQL & REST APIs serving as the single integration gateway for 3 multi-language SDKs (TypeScript, Rust, C#) enabling external engineering teams to integrate complex backend systems effortlessly.
-- **Solana Unity SDK Core Contribution:**  
-  Authored and merged [PR #236](https://github.com/magicblock-labs/Solana.Unity-SDK/pull/236) into the official Solana Unity SDK (MagicBlock), implementing `SignAllTransactions` across mobile and desktop runtimes.
-- **Real-Time Event-Driven Rule Engines & Indexers:**  
-  Solo-architected end-to-end backend pipelines that ingest live transaction streams via gRPC/RPC and mutate user profile states in real time across 4+ production deployments.
-- **Zero Production Vulnerabilities:**  
-  Coordinated and remediated external security audits with Halborn and Plainshift across 5+ production programs and API backends.
-
----
-
-### 📊 Production Philosophy
-- **Pragmatic over hype:** Real systems require bounded queues, strict idempotency, and clean type systems.
-- **Forward Deployed execution:** High-velocity communication, rapid milestone delivery, and zero handholding.
+[owaisiqbal.dev](https://owaisiqbal.dev)
